@@ -17,3 +17,8 @@ body {
     height : 55px;
     width: 55px;
 }
+
+#navigate-button {
+    color : black;
+    text-decoration-color: ghostwhite;
+}
